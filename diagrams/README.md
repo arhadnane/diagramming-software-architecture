@@ -24,5 +24,9 @@ Browse the available architecture diagram examples:
   - `ai-ml/ml-pipeline.md`
 - Data Mesh
   - `data-mesh/data-mesh-domains.md`
+- Vertical Slice
+  - `vertical-slice/vertical-slice-architecture.md`
+- DevOps
+  - `devops/devops-reference-architecture.md`
 
 Tip: Open these `.md` files in VS Code and use the Markdown Preview to see Mermaid diagrams rendered.

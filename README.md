@@ -67,6 +67,8 @@ flowchart TD
 - IoT: [IoT Edge-to-Cloud Architecture](diagrams/iot/iot-edge-cloud.md)
 - AI / ML: [Machine Learning Pipeline Architecture](diagrams/ai-ml/ml-pipeline.md)
 - Data Mesh: [Data Mesh Domain-Oriented Platform](diagrams/data-mesh/data-mesh-domains.md)
+- Vertical Slice: [Vertical Slice Architecture](diagrams/vertical-slice/vertical-slice-architecture.md)
+- DevOps: [DevOps Reference Architecture](diagrams/devops/devops-reference-architecture.md)
 
 ## License
 
