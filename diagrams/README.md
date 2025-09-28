@@ -6,6 +6,7 @@ Browse the available architecture diagram examples:
   - `microservices/api-gateway-bff.md`
   - `microservices/saga-orchestration.md`
   - `microservices/choreography/saga-choreography.md`
+  - `microservices/microservices-dynatrace.md`
 - Monolith
   - `monolith/monolithic-basic.md`
 - Layered
