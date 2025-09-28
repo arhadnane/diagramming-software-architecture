@@ -59,10 +59,14 @@ flowchart TD
 - Microservices:
   - [API Gateway with BFFs](diagrams/microservices/api-gateway-bff.md)
   - [Saga Pattern (Orchestration)](diagrams/microservices/saga-orchestration.md)
+  - [Saga Pattern (Choreography)](diagrams/microservices/choreography/saga-choreography.md)
 - Event-Driven: [Event-Driven Architecture with CQRS](diagrams/event-driven/event-driven-cqrs.md)
 - Serverless: [Serverless Web Backend](diagrams/serverless/serverless-web-backend.md)
 - Cloud-Native: [Kubernetes with Service Mesh](diagrams/cloud-native/cloud-native-k8s-istio.md)
 - Hexagonal: [Ports & Adapters Architecture](diagrams/hexagonal/hexagonal-architecture.md)
+- IoT: [IoT Edge-to-Cloud Architecture](diagrams/iot/iot-edge-cloud.md)
+- AI / ML: [Machine Learning Pipeline Architecture](diagrams/ai-ml/ml-pipeline.md)
+- Data Mesh: [Data Mesh Domain-Oriented Platform](diagrams/data-mesh/data-mesh-domains.md)
 
 ## License
 
