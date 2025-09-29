@@ -64,6 +64,7 @@ Prompts in `prompts/copilot-prompts.md` help Copilot produce consistent Mermaid 
   - [Saga Pattern (Orchestration)](diagrams/microservices/saga-orchestration.md)
   - [Saga Pattern (Choreography)](diagrams/microservices/choreography/saga-choreography.md)
   - [Microservices with Dynatrace Monitoring](diagrams/microservices/microservices-dynatrace.md)
+  - [Secure Microservices with Security Layers](diagrams/microservices/secure-microservices-security-layers.md)
 - Event-Driven: [Event-Driven Architecture with CQRS](diagrams/event-driven/event-driven-cqrs.md)
 - Serverless: [Serverless Web Backend](diagrams/serverless/serverless-web-backend.md)
 - Cloud-Native: [Kubernetes with Service Mesh](diagrams/cloud-native/cloud-native-k8s-istio.md)

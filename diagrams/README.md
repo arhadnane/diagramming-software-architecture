@@ -7,6 +7,7 @@ Browse the available architecture diagram examples:
   - `microservices/saga-orchestration.md`
   - `microservices/choreography/saga-choreography.md`
   - `microservices/microservices-dynatrace.md`
+  - `microservices/secure-microservices-security-layers.md`
 - Monolith
   - `monolith/monolithic-basic.md`
 - Layered
