@@ -1,8 +1,8 @@
 # Software Architecture Diagrams with Mermaid
 
-This repository provides a collection of software architecture diagrams generated with Mermaid and assisted by GitHub Copilot in VS Code.
+This repository provides a curated collection of software architecture diagrams generated with Mermaid and assisted by GitHub Copilot in VS Code.
 
-The goal is to offer clear, well-documented, and reusable diagrams that illustrate different possible software architecture styles and patterns. These diagrams can serve as educational material, technical documentation, or reference models for real-world projects.
+The goal is to offer clear, well-documented, and reusable diagrams that illustrate modern architecture styles and patterns. Use them as educational material, technical documentation, starting points for whiteboarding sessions, or reference models for real-world projects.
 
 ## Key Features
 
@@ -37,13 +37,16 @@ flowchart TD
 %% - Each service manages its own database (database-per-service pattern).
 ```
 
-## How to use
+## Quick start
 
-- Open this repository with VS Code.
-- Ensure you have the recommended extensions installed (see `.vscode/extensions.json`).
-- Open any `.md` file and preview Mermaid diagrams:
-  - Right-click the editor → "Open Preview"
-  - Or use: Ctrl+Shift+V (Windows) for Markdown preview; some Mermaid previews may require the Mermaid extension's preview command.
+1. Clone the repository and open it in VS Code.
+2. Install the recommended extensions (VS Code will prompt from `.vscode/extensions.json`).
+3. Open any diagram file (under `diagrams/`) and press `Ctrl+Shift+V` to preview it. If you use the Mermaid extension, run the "Markdown: Open Preview to the Side" command for live updates.
+4. Tweak the Mermaid code and re-run the preview to iterate quickly.
+
+## Generate new diagrams with Copilot
+
+Prompts in `prompts/copilot-prompts.md` help Copilot produce consistent Mermaid diagrams. Copy a prompt, replace placeholders (architecture style, domain, constraints), and ask Copilot to expand it in a Markdown file. Each prompt enforces explicit component names, inline comments, and optional variants so the output matches the rest of this catalog.
 
 ## Structure
 
@@ -70,6 +73,8 @@ flowchart TD
 - Data Mesh: [Data Mesh Domain-Oriented Platform](diagrams/data-mesh/data-mesh-domains.md)
 - Vertical Slice: [Vertical Slice Architecture](diagrams/vertical-slice/vertical-slice-architecture.md)
 - DevOps: [DevOps Reference Architecture](diagrams/devops/devops-reference-architecture.md)
+
+Looking for a style that isn't listed yet? Open an issue or duplicate a similar diagram and adapt it to your scenario.
 
 ## License
 
